@@ -3,11 +3,9 @@
 
 
 /**
- *
  *   main - Entry point
- *
+ *   This function print a message
  *   Return: Always 0 (Success)
- *
  */
 
 int main(void)
