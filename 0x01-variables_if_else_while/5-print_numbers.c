@@ -11,10 +11,10 @@
 int main(void)
 
 {
-int digit;
-for (digit = 0; digit < 10; digit++)
-	printf("%i", digit);
+int t;
+for (t = 0; t < 10; t++)
+	printf("%i", t);
 
-printf('/n');
+printf('\n');
 return (0);
 }
