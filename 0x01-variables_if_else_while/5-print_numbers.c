@@ -15,6 +15,6 @@ int t;
 for (t = 0; t < 10; t++)
 	printf("%i", t);
 
-printf('\n');
+print('\n');
 return (0);
 }
