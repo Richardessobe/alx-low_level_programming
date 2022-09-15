@@ -11,9 +11,9 @@ int t;
 int s;
 if (n > 0)
 {
-	for (t == 1; t <= n; t++)
+	for (t = 1; t <= n; t++)
 	{
-		for (s == 1; s < t; s++)
+		for (s = 1; s < t; s++)
 		{
 			_putchar(' ');
 			_putchar('\\');
